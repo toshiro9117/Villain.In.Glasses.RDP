@@ -20,8 +20,8 @@
 2. In the name section, enter this text: **NGROK_AUTH_TOKEN**
 3. In the value section, enter the **ngrok token**
 4. Then press **Add Secret**
-5. Now go to **Action > AWS (Left Menu) > Run Workflow**
-6. Refresh the page and go to **AWS > build** option
+5. Now go to **Action > Villain.In.Glasses (Left Menu) > Run Workflow**
+6. Refresh the page and go to **Villain.In.Glasses > build** option
 7. You'll get IP, Username & Password from **Connect to RDP** section.
 
 #### Third Step
