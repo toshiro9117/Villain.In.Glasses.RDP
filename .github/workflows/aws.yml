@@ -1,4 +1,4 @@
-name: AWS
+name: Villain.In.Glasses
 on: workflow_dispatch
 
 jobs:
