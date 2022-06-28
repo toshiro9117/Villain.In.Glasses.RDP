@@ -33,6 +33,3 @@
 ## Screenshots
 <img src="https://i.imgur.com/vgD2owk.png" alt="ss" width="90%"/>
 <img src="https://i.imgur.com/8XBLUqf.png" alt="ss" width="90%"/>
-
-## License
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT License](LICENSE.md).
